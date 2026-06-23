@@ -631,6 +631,7 @@ function useCD(date) {
 const doWA = () => {
   const m = encodeURIComponent(
     "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\n\n" +
+    "https://wedding-7xyf.vercel.app/"+
     "✨ *You Are Cordially Invited* ✨\n\n" +
     "With the blessings of Allah ﷻ, we joyfully invite you to the Nikah of\n\n" +
     "💎 *Niyas* & *Sana* 💎\n\n" +
@@ -706,7 +707,7 @@ export default function App() {
               <h1 className="fp-names">
                 <span className="glow-em">Niyas</span>
                 <span className="fp-amp">✦ &amp; ✦</span>
-                <span className="glow-gd">Sana</span>
+                <span className="glow-gd">Sana Fathima</span>
               </h1>
 
               <div className="divl" style={{marginTop:14}}><div className="dmnd"/></div>
@@ -735,14 +736,13 @@ export default function App() {
               <div className="cc-role">The Groom</div>
               <div className="cc-det">
                 Son of<br/>
-                <strong style={{color:"var(--cream)"}}>Mr. Mohammed</strong><br/>
-                <strong style={{color:"var(--cream)"}}>Mrs. Fathima Beevi</strong><br/>
+                <strong style={{color:"var(--cream)"}}>Mr. hyder ali  </strong><br/>
+                <strong style={{color:"var(--cream)"}}>Mrs. Fathima </strong><br/>
                 <span style={{opacity:0.7}}>Vengad, Valanchery<br/>Malappuram, Kerala</span>
                 <br/><br/>
-                <strong style={{color:"var(--cream)"}}>Brothers:</strong> Rafiq · Salman<br/>
-                <strong style={{color:"var(--cream)"}}>Sisters:</strong> Asiya · Raheela
+                <strong style={{color:"var(--cream)"}}>Sisters:</strong> Rameesa · Raneesha
               </div>
-              <span className="cc-job j-em">Software Engineer</span>
+              <span className="cc-job j-em">Interior Designer</span>
             </div>
 
             {/* Bride Card */}
@@ -754,12 +754,12 @@ export default function App() {
                 Daughter of<br/>
                 <strong style={{color:"var(--cream)"}}>Mr. Abdul Razak</strong><br/>
                 <strong style={{color:"var(--cream)"}}>Mrs. Mariyam</strong><br/>
-                <span style={{opacity:0.7}}>Kolathoor, Perintalmanna<br/>Malappuram, Kerala</span>
+                <span style={{opacity:0.7}}>Kavumpuram,<br/>Valanchery, Kerala</span>
                 <br/><br/>
                 <strong style={{color:"var(--cream)"}}>Brothers:</strong> Ashraf · Sinan<br/>
                 <strong style={{color:"var(--cream)"}}>Sisters:</strong> Hana · Nazia
               </div>
-              <span className="cc-job j-gd">BSc Nursing</span>
+              <span className="cc-job j-gd">Teacher</span>
             </div>
           </div>
 
