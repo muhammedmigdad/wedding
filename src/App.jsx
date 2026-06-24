@@ -752,8 +752,8 @@ export default function App() {
               <div className="cc-role">The Bride</div>
               <div className="cc-det">
                 Daughter of<br/>
-                <strong style={{color:"var(--cream)"}}>Mr. Abdul Razak</strong><br/>
-                <strong style={{color:"var(--cream)"}}>Mrs. Mariyam</strong><br/>
+                <strong style={{color:"var(--cream)"}}>Mr. Veeran</strong><br/>
+                <strong style={{color:"var(--cream)"}}>Mrs.Rafeeqa</strong><br/>
                 <span style={{opacity:0.7}}>Kavumpuram,<br/>Valanchery, Kerala</span>
                 <br/><br/>
                 <strong style={{color:"var(--cream)"}}>Brothers:</strong> Ashraf · Sinan<br/>
