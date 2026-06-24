@@ -753,11 +753,9 @@ export default function App() {
               <div className="cc-det">
                 Daughter of<br/>
                 <strong style={{color:"var(--cream)"}}>Mr. Veeran</strong><br/>
-                <strong style={{color:"var(--cream)"}}>Mrs.Rafeeqa</strong><br/>
+                <strong style={{color:"var(--cream)"}}>Mrs. Rafeeqa</strong><br/>
                 <span style={{opacity:0.7}}>Kavumpuram,<br/>Valanchery, Kerala</span>
                 <br/><br/>
-                <strong style={{color:"var(--cream)"}}>Brothers:</strong> Ashraf · Sinan<br/>
-                <strong style={{color:"var(--cream)"}}>Sisters:</strong> Hana · Nazia
               </div>
               <span className="cc-job j-gd">Teacher</span>
             </div>
